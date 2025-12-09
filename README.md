@@ -1,3 +1,7 @@
+/!\\ Il faut ouvrir le WBP\_UI avant de lancer le jeu, sinon le cooldown des sorts n'apparaît pas
+
+
+
 Contrôles :
 
 
