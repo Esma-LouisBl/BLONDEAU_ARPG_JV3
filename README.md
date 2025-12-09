@@ -10,6 +10,8 @@ Le personnage se déplace en direction du clic du joueur
 
 A/Z/E : Sort 1/2/3
 
+Barre Espace : Interagir avec un PNJ
+
 
 
 Mécanique :
