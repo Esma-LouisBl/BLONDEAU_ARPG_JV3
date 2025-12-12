@@ -1,4 +1,4 @@
-/!\\ Il faut ouvrir le WBP\_UI avant de lancer le jeu, sinon le cooldown des sorts n'apparaît pas
+/!\\ Il faut ouvrir le WBP\_UI avant de lancer le jeu, sinon l'UI n'apparaît pas
 
 
 
@@ -10,7 +10,7 @@ Le personnage se déplace en direction du clic du joueur
 
 A/Z/E : Sort 1/2/3
 
-Barre Espace : Interagir avec un PNJ
+Barre Espace : Interagir avec un PNJ si le joueur est dans la zone
 
 
 
